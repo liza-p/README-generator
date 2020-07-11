@@ -6,7 +6,7 @@ This application allows you to generate a good README file by only using your te
 ```
  node index.js
  ```
-command, then you will be promptet to answear a list of questions related to your project.
+command, then you will be prompted to answear a list of questions related to your project.
 
 
 To see the generated README file navigate to the same directory where the index.js is and view your README. 
